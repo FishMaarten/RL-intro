@@ -19,7 +19,7 @@ Introducing gridworld with the MDP, **value estimation and control for optimal p
 
 Chapter 5: **Monte Carlo Methods**  
 [blackjack_mc.ipynb](https://github.com/FishMaarten/RL-intro/blob/master/Notebooks/Part1/blackjack_mc.ipynb):
-**OOP blackjack agent & environment** episodic learning using monte carlo for unknowns in MDP
+**OOP blackjack agent & environment** episodic learning using MC for unknowns in MDP
 
 Chapter 6: **Temporal-Difference Learning**  
 [temporal_difference.ipynb](https://github.com/FishMaarten/RL-intro/blob/master/Notebooks/Part1/temporal_difference.ipynb):
