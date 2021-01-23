@@ -23,9 +23,9 @@ Chapter 5: **Monte Carlo Methods**
 
 Chapter 6: **Temporal-Difference Learning**  
 [temporal_difference.ipynb](https://github.com/FishMaarten/RL-intro/blob/master/Notebooks/Part1/temporal_difference.ipynb):
-**On-policy vs off-policy** effects and improvements on some interesting grid world examples.  
+**On-policy vs off-policy** effects and improvements on some interesting gridworlds.  
 [tic_tac_toe.ipynb](https://github.com/FishMaarten/RL-intro/blob/master/Notebooks/Part1/tic_tac_toe.ipynb):
-Testing current understanding after first 6 chapters, development **Adversarial Q-learning Maker vs Breaker**
+Testing current understanding after first 6 chapters, **Adversarial Q-learning Maker vs Breaker**
 
 Chapter 7: **n-step Bootstrapping**  
 [n_step_bootstrap.ipynb](https://github.com/FishMaarten/RL-intro/blob/master/Notebooks/Part1/n_step_bootstrap.ipynb):
