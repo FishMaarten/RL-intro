@@ -34,3 +34,13 @@ Chapter 7: **n-step Bootstrapping**
 Chapter 8: **Planning and Learning with Tabular Methods**  
 [planning_and_learning.ipynb](https://github.com/FishMaarten/RL-intro/blob/master/Notebooks/Part1/planning_and_learning.ipynb):
 Introduction of **long term planning** using **DynaQ** model or **Prioritised Sweeping** stack
+
+# Want to further explore these notebooks?
+Run these commands in the terminal:
+```
+$ git clone https://github.com/FishMaarten/RL-intro
+$ cd RL-intro
+$ jupyter notebook
+```
+#### This will clone the repository onto your local machine where you can run the notebooks' code in jupyter
+Make sure you have **jupyter** [**installed**](https://jupyter.org/install)... Also comes **pre-installed with** [**anaconda**](https://anaconda.org)
